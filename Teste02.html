@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teste02</title>
+    <style>
+        table {
+        border-collapse: collapse;
+        border: 2px solid rgb(140 140 140);
+        font-family: sans-serif;
+        font-size: 0.8rem;
+        letter-spacing: 1px;
+        }
+
+        caption {
+        caption-side: bottom;
+        padding: 10px;
+        font-weight: bold;
+        }
+
+        thead,
+        tfoot {
+        background-color: rgb(228 240 245);
+        }
+
+        th,
+        td {
+        border: 1px solid rgb(160 160 160);
+        padding: 8px 10px;
+        }
+
+        td:last-of-type {
+        text-align: center;
+        }
+
+        tbody > tr:nth-of-type(even) {
+        background-color: rgb(237 238 242);
+        }
+
+        tfoot th {
+        text-align: right;
+        }
+    </style>
+</head>
+<body>
+    
+    <table>
+        <caption>
+            Equipamentos registrados
+        </caption>
+        <thead>
+            <tr>
+                <th>Equipamento</th>
+                <th>Número de série</th>
+                <th>Fabricante</th>
+            </tr>
+        </thead>
+        <tbody>
+            <th scope="row" id="tbNome" nome()></th>
+            <td id="tbpreço" preço()></td>
+            <td id="tbnum" num()></td>
+            <td id="tbdata" data()></td>
+            <td id="tbfabric" fabric()></td>
+        </tbody>
+    </table>
+    <script>
+        function nome(){
+            var tbNome = window.document.querySelector(`th#tbNome`)
+            tbNome.innerHTML = `${tbNome}`
+        }
+        function preço(){
+            var tbpreço = window.document.querySelector(`th#tbpreço`)
+            tbpreço.innerHTML = `${tbpreço}`
+        }
+        function num(){
+            var tbnum = window.document.querySelector(`th#tbnum`)
+            tbnum.innerHTML = `${tbnum}`
+        }
+        function data(){
+            var tbdata = window.document.querySelector(`th#tbdata`)
+            tbdata.innerHTML = `${tbdata}`
+        }
+        function fabric(){
+            var tbfabric = window.document.querySelector(`th#tbfabric`)
+            tbfabric.innerHTML = `${tbfabric}`
+        }
+    </script>
+
+</body>
+</html>
+
+
+
+
+
