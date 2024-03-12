@@ -1,0 +1,14 @@
+C:\Users\doraj\Documents\Academia do Pragramador\Aula02\Calculadora\Calculadora.ConsoleApp\bin\Debug\net8.0\Calculadora.ConsoleApp.exe
+C:\Users\doraj\Documents\Academia do Pragramador\Aula02\Calculadora\Calculadora.ConsoleApp\bin\Debug\net8.0\Calculadora.ConsoleApp.deps.json
+C:\Users\doraj\Documents\Academia do Pragramador\Aula02\Calculadora\Calculadora.ConsoleApp\bin\Debug\net8.0\Calculadora.ConsoleApp.runtimeconfig.json
+C:\Users\doraj\Documents\Academia do Pragramador\Aula02\Calculadora\Calculadora.ConsoleApp\bin\Debug\net8.0\Calculadora.ConsoleApp.dll
+C:\Users\doraj\Documents\Academia do Pragramador\Aula02\Calculadora\Calculadora.ConsoleApp\bin\Debug\net8.0\Calculadora.ConsoleApp.pdb
+C:\Users\doraj\Documents\Academia do Pragramador\Aula02\Calculadora\Calculadora.ConsoleApp\obj\Debug\net8.0\Calculadora.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doraj\Documents\Academia do Pragramador\Aula02\Calculadora\Calculadora.ConsoleApp\obj\Debug\net8.0\Calculadora.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\doraj\Documents\Academia do Pragramador\Aula02\Calculadora\Calculadora.ConsoleApp\obj\Debug\net8.0\Calculadora.ConsoleApp.AssemblyInfo.cs
+C:\Users\doraj\Documents\Academia do Pragramador\Aula02\Calculadora\Calculadora.ConsoleApp\obj\Debug\net8.0\Calculadora.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\doraj\Documents\Academia do Pragramador\Aula02\Calculadora\Calculadora.ConsoleApp\obj\Debug\net8.0\Calculadora.ConsoleApp.dll
+C:\Users\doraj\Documents\Academia do Pragramador\Aula02\Calculadora\Calculadora.ConsoleApp\obj\Debug\net8.0\refint\Calculadora.ConsoleApp.dll
+C:\Users\doraj\Documents\Academia do Pragramador\Aula02\Calculadora\Calculadora.ConsoleApp\obj\Debug\net8.0\Calculadora.ConsoleApp.pdb
+C:\Users\doraj\Documents\Academia do Pragramador\Aula02\Calculadora\Calculadora.ConsoleApp\obj\Debug\net8.0\Calculadora.ConsoleApp.genruntimeconfig.cache
+C:\Users\doraj\Documents\Academia do Pragramador\Aula02\Calculadora\Calculadora.ConsoleApp\obj\Debug\net8.0\ref\Calculadora.ConsoleApp.dll
