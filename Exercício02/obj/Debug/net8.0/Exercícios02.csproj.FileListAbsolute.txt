@@ -1,0 +1,14 @@
+C:\Users\doraj\Documents\Academia do Pragramador\Aula04\Exercícios\Exercícios02\bin\Debug\net8.0\Exercícios02.exe
+C:\Users\doraj\Documents\Academia do Pragramador\Aula04\Exercícios\Exercícios02\bin\Debug\net8.0\Exercícios02.deps.json
+C:\Users\doraj\Documents\Academia do Pragramador\Aula04\Exercícios\Exercícios02\bin\Debug\net8.0\Exercícios02.runtimeconfig.json
+C:\Users\doraj\Documents\Academia do Pragramador\Aula04\Exercícios\Exercícios02\bin\Debug\net8.0\Exercícios02.dll
+C:\Users\doraj\Documents\Academia do Pragramador\Aula04\Exercícios\Exercícios02\bin\Debug\net8.0\Exercícios02.pdb
+C:\Users\doraj\Documents\Academia do Pragramador\Aula04\Exercícios\Exercícios02\obj\Debug\net8.0\Exercícios02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doraj\Documents\Academia do Pragramador\Aula04\Exercícios\Exercícios02\obj\Debug\net8.0\Exercícios02.AssemblyInfoInputs.cache
+C:\Users\doraj\Documents\Academia do Pragramador\Aula04\Exercícios\Exercícios02\obj\Debug\net8.0\Exercícios02.AssemblyInfo.cs
+C:\Users\doraj\Documents\Academia do Pragramador\Aula04\Exercícios\Exercícios02\obj\Debug\net8.0\Exercícios02.csproj.CoreCompileInputs.cache
+C:\Users\doraj\Documents\Academia do Pragramador\Aula04\Exercícios\Exercícios02\obj\Debug\net8.0\Exercícios02.dll
+C:\Users\doraj\Documents\Academia do Pragramador\Aula04\Exercícios\Exercícios02\obj\Debug\net8.0\refint\Exercícios02.dll
+C:\Users\doraj\Documents\Academia do Pragramador\Aula04\Exercícios\Exercícios02\obj\Debug\net8.0\Exercícios02.pdb
+C:\Users\doraj\Documents\Academia do Pragramador\Aula04\Exercícios\Exercícios02\obj\Debug\net8.0\Exercícios02.genruntimeconfig.cache
+C:\Users\doraj\Documents\Academia do Pragramador\Aula04\Exercícios\Exercícios02\obj\Debug\net8.0\ref\Exercícios02.dll
