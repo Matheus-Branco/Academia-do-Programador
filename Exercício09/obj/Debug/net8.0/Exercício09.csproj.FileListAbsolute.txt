@@ -1,0 +1,5 @@
+C:\Users\doraj\Documents\Academia do Pragramador\Aula04\Exercícios\Exercício09\obj\Debug\net8.0\Exercício09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doraj\Documents\Academia do Pragramador\Aula04\Exercícios\Exercício09\obj\Debug\net8.0\Exercício09.AssemblyInfoInputs.cache
+C:\Users\doraj\Documents\Academia do Pragramador\Aula04\Exercícios\Exercício09\obj\Debug\net8.0\Exercício09.AssemblyInfo.cs
+C:\Users\doraj\Documents\Academia do Pragramador\Aula04\Exercícios\Exercício09\obj\Debug\net8.0\Exercício09.csproj.CoreCompileInputs.cache
+C:\Users\doraj\Documents\Academia do Pragramador\Aula04\Exercícios\Exercício09\obj\Debug\net8.0\Exercício09.sourcelink.json
